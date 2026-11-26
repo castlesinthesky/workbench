@@ -6,8 +6,6 @@ Private working repo for things built with Claude that are worth keeping and ver
 
 | Folder | Contents |
 | --- | --- |
-| `overnight-brief/` | Prompt and settings for the daily 4am briefing |
-| `inbox-cleanup/` | Gmail cleanup rules and prompt |
 | `notes/` | Plain-text notes worth keeping a history of |
 | `scratch/` | One-off outputs; safe to delete at any time |
 
